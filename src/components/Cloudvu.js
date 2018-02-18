@@ -18,8 +18,8 @@ class Cloudvu extends Component {
             <p id="epro" className="bio">
               CloudVu
             </p>
-            <p className="project-blurb">CloudVu is a pinpoint forecast application intended to provide more precise data for climbers, hikers, skiers, or anyone heading into the mountains.</p>
-            <p className="project-blurb">Users can choose locations through geocoding, geolocation, or simply scrolling and clicking/tapping on the map itself. Favorite locations can be saved by longitude and latitude information along with a custom name set by the user. The map can be used to access weather data without logging in, but once logged in, a user can recall saved locations and view the forecast without navigating on the map. A comprehensive 48-hour forecast is visualized with a D3 stream graph so that the user can get a clear picture of upcoming upcoming weather trends.</p>
+            <p className="project-blurb">CloudVu is a pinpoint forecast application intended to provide more precise weather data for climbers, hikers, skiers, or anyone heading into the mountains.</p>
+            <p className="project-blurb">Users can select locations through geocoding, geolocation, or simply scrolling and clicking/tapping on the map itself. Favorite locations are saved with a custom name set by the user. A comprehensive 48-hour forecast is visualized with a D3 stream graph so that the user can get a clear picture of upcoming weather trends.</p>
             <div className="contact-container">
               <p className="project-blurb">Created with Mapbox, D3, JavaScript, Node.js, Express.js, PostgreSQL, Knex.js, and the Dark Sky API</p>
               <p className="project-blurb">

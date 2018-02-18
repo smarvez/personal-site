@@ -19,7 +19,7 @@ class Messages extends Component {
               Galvanize Messages
             </p>
             <p className="project-blurb">Galvanize Messages allows a user to view, add, and delete messages from an API.</p>
-            <p className="project-blurb">This project was designed to test our ability to create a full stack web application, including building API, connecting it to a React frontend, and finally styling with Bootstrap.</p>
+            <p className="project-blurb">This project was designed to test our ability to create a full stack web application, including building the API and connecting it to a React frontend.</p>
             <div className="contact-container">
               <p className="project-blurb">Created with React, Bootstrap, Javascript, Node.js, Express.js, Knex.js PostgreSQL</p>
               <p className="project-blurb">
