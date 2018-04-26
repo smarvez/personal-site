@@ -23,7 +23,7 @@ class Epro extends Component {
             <div className="contact-container">
               <p className="project-blurb">Created with React, D3, Javascript, Material UI, Python, PostgreSQL</p>
               <p className="project-blurb">
-                <a href={'https://e-pro-fitness.herokuapp.com/login'} className="linkOut">Visit the live site.</a>
+                <a href={'https://www.youtube.com/watch?v=jdjHQ-HdMik&feature=youtu.be'} className="linkOut">See the demo.</a>
               </p>
             </div>
 
